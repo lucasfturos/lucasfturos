@@ -1,0 +1,3 @@
+- 👋 Hi, I'm Lucas Felipe Turos (@lucasfturos), I'm a computer technician specializing in software development
+- I'm currently studying computer engineering
+- I'm interested in developing software for industry or companies, designing on-board computers, and mathematical and/or physical simulations
