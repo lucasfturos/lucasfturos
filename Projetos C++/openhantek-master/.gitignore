@@ -1,7 +1,0 @@
-.bak
-.o
-.so
-.*~
-CMakeLists.txt.user
-build/
-firmware/hex
