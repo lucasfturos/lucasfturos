@@ -1,10 +1,12 @@
-## Hello, I'm Lucas Felipe Turos.
- - **About me**
-   - Computer Engineering: Studying
-   - I'm a Computer Technician
-   - My focus is back-end programming and embedded systems
-   - I also like the area of simulation of mathematical and/or physical models
-   - Work with languages HTML5 | CSS3 | JavaScript | PHP | C | C++ | Java | Python | SQL | Object Pascal
+<h1>Hello, I'm Lucas</h1>
+
+ - Work with languages HTML5 | CSS3 | JavaScript | PHP | C | C++ | Java | Python | SQL | Object Pascal
+
+## About me
+  - Computer Engineering: Studying
+  - I'm a Computer Technician
+  - My focus is back-end programming and embedded systems
+  - I also like the area of simulation of mathematical and/or physical models
    
 
 ## Languages I use the most on GitHub
