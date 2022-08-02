@@ -1,6 +1,6 @@
 <h1>Hello, I'm Lucas</h1>
 
- - Work with languages HTML5 | CSS3 | JavaScript | PHP | C | C++ | Java | Python | SQL | Object Pascal
+ - Work with languages HTML5 | CSS3 | JavaScript | PHP | C | C++ | Java | Python | SQL | Object Pascal | Assembly
 
 ## About me
   - Computer Engineering: Studying
