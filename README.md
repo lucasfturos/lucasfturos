@@ -1,6 +1,8 @@
 <h1>Hello, I'm Lucas</h1>
 
- - Work with languages HTML5 | CSS3 | JavaScript | PHP | C | C++ | Java | Python | SQL | Object Pascal | Assembly
+ - Work with languages: HTML5 | CSS3 | JavaScript | PHP | C | C++ | Java | Python | SQL | Object Pascal | Assembly
+ 
+ - The technologies I use the most are: Angular | Django | Ionic | Qt5 in C++ | Node Js | MySQL | TypeScript | Laravel | Bootstrap | Git | VSCode | GitHub | MPLAB X IDE | Android Studio | Eclipse 
 
 ## About me
   - Computer Engineering: Studying
