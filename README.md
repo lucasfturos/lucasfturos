@@ -47,11 +47,11 @@
   <a href="https://github.com/lucasfturos">
 
 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfturos&layout=compact&langs_count=10&theme=transparent"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfturos&layout=compact&langs_count=10&theme=dark"/>
 
 
 
-
+  </a>
 </div>
 
 ## Social Media
