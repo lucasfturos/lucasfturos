@@ -51,7 +51,7 @@
 </div>
 
 ## Social Media
-<div align="start">
+<div align="center">
   <a href="https://www.linkedin.com/in/lucas-felipe-turos/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="35em" target="_blank"></a>
   
@@ -62,9 +62,9 @@
 
 
 ## Visitor Counter
-<p align="center">
+<div align="center">
 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{lucasfturos}/count.svg)
-</p>
+</div>
