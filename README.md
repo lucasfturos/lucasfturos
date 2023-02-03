@@ -50,16 +50,6 @@
  </a>
 </div>
 
-## Social Media
-<div align="center">
-  <a href="https://www.instagram.com/lucasfturos/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="35em" target="_blank"></a>
-  
-  <a href="https://www.linkedin.com/in/lucas-felipe-turos/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="35em" target="_blank"></a>
-  
-</div>
-
 
 ## Visitor Counter
 <div align="center">
