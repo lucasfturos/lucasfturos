@@ -1,4 +1,4 @@
-## <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Hi%2C+I'm+Lucas+Turos.+Welcome+to+my+profile." alt="Hi, I'm Lucas Turos. Welcome to my profile." />
+## <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Hi%2C+I'm+Lucas+Turos.+Welcome+to+my+profile." alt="Hi, I'm Lucas Turos. Welcome to my profile." />
 
 ## Work with languages 
 
