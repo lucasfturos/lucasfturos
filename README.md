@@ -46,7 +46,7 @@
 ## Languages I use the most on GitHub
 <div align="center">
  <a href="https://github.com/lucasfturos">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfturos&layout=compact&langs_count=10&theme=dark&hide=css,html,scss,blade,shell"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfturos&layout=compact&langs_count=10&theme=dark&hide=css,html,scss,blade,shell,cmake"/>
  </a>
 </div>
 
