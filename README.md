@@ -13,9 +13,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assembly)
 ![Object-Pascal](https://img.shields.io/badge/Pascal-B0CE4E?style=flat-square&logo=pascal&logoColor=white)
  
@@ -51,7 +48,7 @@
 ## Languages I use the most on GitHub
 <div align="center">
  <a href="https://github.com/lucasfturos">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfturos&layout=compact&langs_count=10&theme=dark&hide=css,html,scss,blade,shell,cmake,javascript,vue"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfturos&layout=compact&langs_count=8&theme=dark&hide=css,html,scss,blade,shell,cmake,javascript,vue,lua"/>
  </a>
 </div>
 
