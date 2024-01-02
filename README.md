@@ -38,8 +38,7 @@
 
 
 ## About me
-  - Computer Engineering: Studying
-  - I'm a Computer Technician
+  - I'm a computer engineer and IT technician 
   - My focus is back-end programming and embedded systems
   - I also like the area of simulation of mathematical and/or physical models
    
