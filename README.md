@@ -58,12 +58,3 @@
   <img height="190em" src="https://github-readme-stats-lucasfturos.vercel.app/api/top-langs/?username=lucasfturos&layout=compact&langs_count=8&theme=dark&hide=css,html,scss,blade,shell,cmake,javascript,vue,lua,makefile"/>
  </a>
 </div>
-
-
-## Visitor Counter
-<div align="center">
-
-
-
-![Visitor Count](https://profile-counter.glitch.me/{lucasfturos}/count.svg)
-</div>
