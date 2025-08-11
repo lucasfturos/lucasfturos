@@ -54,7 +54,7 @@
 
 <div align="center">
  <a href="https://github.com/lucasfturos/donut-3d-svg">
-  <img height="190em" src="./assets/svg/torus.svg"/>
+  <img height="190em" src="https://raw.githubusercontent.com/lucasfturos/lucasfturos/refs/heads/main/assets/svg/torus.svg"/>
  </a>
 </div>
 
