@@ -16,6 +16,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add torus.svg
+          git add assets/svg/torus.svg
           git commit -m "Update torus.svg" || echo "No changes"
           git push
