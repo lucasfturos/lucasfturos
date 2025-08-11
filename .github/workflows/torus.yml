@@ -1,0 +1,21 @@
+name: Update Torus SVG from Vercel
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Criar pasta assets/svg
+        run: mkdir -p assets/svg
+      - name: Baixar SVG do Vercel
+        run: curl -s https://donut-3d-svg.vercel.app/api/donut -o assets/svg/torus.svg
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add torus.svg
+          git commit -m "Update torus.svg" || echo "No changes"
+          git push
