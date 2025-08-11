@@ -8,8 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Criar pasta assets/svg
-        run: mkdir -p assets/svg
       - name: Baixar SVG do Vercel
         run: curl -s https://donut-3d-svg.vercel.app/api/donut -o assets/svg/torus.svg
       - name: Commit & Push
